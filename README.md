@@ -6,6 +6,10 @@ Show that by drawing the tree diagram, and
 Calculate the average code word length, entropy, variance, redundancy, and efficiency.
 # Tools Required:
 Google Colab
+# Theory 
+
+Huffman and Shannon–Fano coding are lossless data compression techniques used to efficiently represent symbols from a discrete memoryless source based on their probabilities. In Shannon–Fano coding, symbols are arranged in descending order and recursively divided into two groups with nearly equal probabilities, assigning binary digits to form prefix codes. Huffman coding, on the other hand, is an optimal bottom-up approach where the least probable symbols are repeatedly combined to form a binary tree, resulting in minimum average codeword length. The performance of these methods is evaluated using entropy, average codeword length, efficiency, redundancy, and variance, with Huffman coding generally providing better efficiency and lower redundancy compared to Shannon–Fano coding.
+
 # Program:
 ```
 Experimental verification of Huffman and Shanon fano code                                                                                                 # Huffman Coding and Shannon-Fano Coding for given source probabilities
