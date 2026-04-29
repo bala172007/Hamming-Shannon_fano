@@ -203,7 +203,8 @@ print("=" * 60)
 <img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/92c48761-7708-4a6a-a762-5e815e3f84ef" />
 <img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/981f9895-f8ab-401c-b003-b6c355912480" />
 # Output
-```Symbols and Probabilities
+```
+Symbols and Probabilities
 ----------------------------------------
 S1 : 0.125
 S2 : 0.0625
