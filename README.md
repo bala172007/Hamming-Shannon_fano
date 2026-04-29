@@ -43,12 +43,9 @@ entropy = calculate_entropy(probabilities)
 print("Entropy Calculation")
 print("-" * 40)
 print(f"Entropy H(X) = {entropy:.4f} bits/symbol\n")
-
-
 # --------------------------------------------------
 # HUFFMAN CODING
 # --------------------------------------------------
-
 class Node:
     def __init__(self, prob, symbol=None, left=None, right=None):
         self.prob = prob
@@ -58,8 +55,6 @@ class Node:
 
     def __lt__(self, other):
         return self.prob < other.prob
-
-
 def generate_huffman_codes(node, current_code="", codes={}):
     if node is None:
         return
