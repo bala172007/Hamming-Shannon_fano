@@ -208,8 +208,8 @@ print("\nComparison Complete.")
 print("=" * 60) 
 ```
 # Calculation:
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/92c48761-7708-4a6a-a762-5e815e3f84ef" />
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/981f9895-f8ab-401c-b003-b6c355912480" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/92c48761-7708-4a6a-a762-5e815e3f84ef" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/981f9895-f8ab-401c-b003-b6c355912480" />
 
 # Output
 ```Symbols and Probabilities
